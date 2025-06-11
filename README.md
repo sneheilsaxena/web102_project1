@@ -2,7 +2,7 @@
 
 Submitted by: **Sneheil Saxena**
 
-This web app: **A community board showcasing video game–themed events and resources in a retro neon style. Users can browse upcoming game releases, tournaments, streamers, and guides—all presented in responsive cards.**
+This web app: **A community board showcasing video game-themed events and resources in a retro neon style. Users can browse upcoming game releases, tournaments, streamers, and guides - all presented in responsive cards.**
 
 Time spent: **2 hours spent in total**
 
@@ -46,7 +46,7 @@ GIF created with LiceCAP
 
 ## License
 
-    Copyright [yyyy] [name of copyright owner]
+    Copyright 2025 Sneheil Saxena
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
